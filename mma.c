@@ -1,4 +1,5 @@
-/* compile with cc -o mma7660 mma7660.c -lncurses */
+// Original instructions - /* compile with cc -o mma7660 mma7660.c -lncurses */
+// My changes -- //gcc -o mma mma.c -lncurses -l wiringPi
 
 #define MMA7660_ADDR  0x4c
 

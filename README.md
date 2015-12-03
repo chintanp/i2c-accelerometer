@@ -1,2 +1,4 @@
-# node-i2c-accelerometer
-Code related to i2c-accelerometer using NodejS
+# i2c-accelerometer
+
+### Main file
+* mma.c - Has compiling instructions, works on raspberry Pi. 
